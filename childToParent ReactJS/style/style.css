@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#container{
+	margin: 0 !important;
+	padding: 0 !important;
+}
+header{
+	background-color: #212121;
+	color: #E2E2E2;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+    padding: 20px 0;
+}
+.child-btn{
+    display: inline;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.parent-container{
+    width: 100%;
+    margin: 20px 0 20px 10px;
+}
+.child-container{
+    margin: 20px 0;
+}
+
+span.parent-info {
+    font-weight: bold;
+    color: #ff6347;
+}
